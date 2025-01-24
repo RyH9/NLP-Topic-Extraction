@@ -1,6 +1,6 @@
-# NLP: Takehome 5
+# NLP: Takehome 5 - Topic Extraction
 
-This Python project performs topic extraction on a set of ~1000 given emails. In addition, it performs featurization using three methods: Word2Vec, FAST, and CBOW, to compare their performance in seperating similar terms.
+This Python project performs topic extraction on a set of ~1000 given emails (included in .zip format). In addition, it performs featurization using three methods: Word2Vec, FAST, and CBOW, to compare their performance in seperating similar terms.
 
 ## Preprocessing
 
